@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "homakmod:block/soul_bricks",
+    "side": "homakmod:block/soul_bricks",
+    "top": "homakmod:block/soul_bricks"
+  }
+}

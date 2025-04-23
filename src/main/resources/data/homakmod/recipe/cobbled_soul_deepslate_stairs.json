@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "homakmod:cobbled_soul_deepslate"
+    }
+  },
+  "result": {
+    "id": "homakmod:cobbled_soul_deepslate_stairs",
+    "count": 1
+  }
+}

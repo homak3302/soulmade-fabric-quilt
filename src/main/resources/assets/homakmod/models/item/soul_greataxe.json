@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "homakmod:item/soul_greataxe_gui"
+  }
+}

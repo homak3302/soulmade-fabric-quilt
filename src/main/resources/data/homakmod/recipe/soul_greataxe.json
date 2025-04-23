@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " nS",
+    "nNn",
+    "Hn "
+  ],
+  "key": {
+    "n": {
+      "item": "homakmod:soul_ingot"
+    },
+    "S": {
+      "item": "homakmod:soul_force_field"
+    },
+    "N": {
+      "item": "homakmod:unstable_soul_ingot"
+    },
+    "H": {
+      "item": "minecraft:netherite_axe"
+    }
+  },
+  "result": {
+    "id": "homakmod:soul_greataxe",
+    "count": 1
+  }
+}

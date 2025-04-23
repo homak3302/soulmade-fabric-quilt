@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "net.homak.homakmod.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"PlayerEntityRendererMixin"
+	],
+	"client": [
+		"ItemRendererMixin",
+		"ModelLoaderMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

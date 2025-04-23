@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "homakmod:block/cobbled_soul_deepslate_slab"
+    },
+    "type=double": {
+      "model": "homakmod:block/cobbled_soul_deepslate"
+    },
+    "type=top": {
+      "model": "homakmod:block/cobbled_soul_deepslate_slab_top"
+    }
+  }
+}

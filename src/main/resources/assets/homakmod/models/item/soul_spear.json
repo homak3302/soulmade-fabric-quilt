@@ -1,0 +1,15 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "homakmod:item/soul_spear_gui"
+	},
+	"display": {
+		"gui": {
+			"translation": [0.5, 0.5, 0.5],
+			"scale": [1.0, 1.0, 1.0]
+		}
+	},
+	"overrides": [
+		{"predicate": {"homakmod:is_held": 1}, "model": "homakmod:item/soul_spear_held"}
+	]
+}

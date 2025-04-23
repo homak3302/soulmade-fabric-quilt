@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #n",
+    "#n#",
+    "N# "
+  ],
+  "key": {
+    "#": {
+      "item": "homakmod:soul_bottle"
+    },
+    "n": {
+      "item": "homakmod:soul_ingot"
+    },
+    "N": {
+      "item": "minecraft:netherite_sword"
+    }
+  },
+  "result": {
+    "id": "homakmod:fractured_slayer",
+    "count": 1
+  }
+}

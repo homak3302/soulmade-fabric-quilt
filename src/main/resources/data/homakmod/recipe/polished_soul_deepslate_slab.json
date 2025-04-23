@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "homakmod:polished_soul_deepslate"
+    }
+  },
+  "result": {
+    "id": "homakmod:polished_soul_deepslate_slab",
+    "count": 1
+  }
+}

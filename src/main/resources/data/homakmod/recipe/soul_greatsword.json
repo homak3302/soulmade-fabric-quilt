@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #S",
+    "nS#",
+    "Nn "
+  ],
+  "key": {
+    "#": {
+      "item": "homakmod:soul_force_field"
+    },
+    "S": {
+      "item": "minecraft:soul_sand"
+    },
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "N": {
+      "item": "minecraft:netherite_sword"
+    }
+  },
+  "result": {
+    "id": "homakmod:soul_greatsword",
+    "count": 1
+  }
+}

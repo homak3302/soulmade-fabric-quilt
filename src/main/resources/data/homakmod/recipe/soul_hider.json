@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "nRn",
+    "#E#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:polished_deepslate"
+    },
+    "S": {
+      "item": "minecraft:soul_campfire"
+    },
+    "n": {
+      "item": "minecraft:soul_sand"
+    },
+    "R": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "id": "homakmod:soul_hider",
+    "count": 1
+  }
+}

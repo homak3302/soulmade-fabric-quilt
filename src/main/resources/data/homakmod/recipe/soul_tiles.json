@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "homakmod:soul_bricks"
+    },
+    {
+      "item": "homakmod:soul_bricks"
+    },
+    {
+      "item": "homakmod:soul_bricks"
+    },
+    {
+      "item": "homakmod:soul_bricks"
+    },
+    {
+      "item": "minecraft:soul_sand"
+    },
+    {
+      "item": "homakmod:soul_bricks"
+    },
+    {
+      "item": "homakmod:soul_bricks"
+    },
+    {
+      "item": "homakmod:soul_bricks"
+    },
+    {
+      "item": "homakmod:soul_bricks"
+    }
+  ],
+  "result": {
+    "id": "homakmod:soul_tiles",
+    "count": 8
+  }
+}

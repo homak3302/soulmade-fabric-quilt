@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "homakmod",
+	"version": "${version}",
+	"name": "Soulmade",
+	"description": "Some test soul themed additions to the game",
+	"authors": [
+		"Homak"
+	],
+	"contact": {
+		"homepage": "https://www.youtube.com/@homak524",
+		"sources": "NotYet"
+	},
+	"license": "MIT",
+	"icon": "assets/homakmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.homak.homakmod.HomakMod"
+		],
+		"fabric-datagen": [
+			"net.homak.homakmod.HomakModDataGenerator"
+		],
+		"client" : [
+			"net.homak.homakmod.HomakModClient"
+		]
+
+	},
+	"mixins": [
+		"homakmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:soul_sand"
+    },
+    {
+      "item": "homakmod:cobbled_soul_deepslate"
+    },
+    {
+      "item": "homakmod:cobbled_soul_deepslate"
+    },
+    {
+      "item": "homakmod:cobbled_soul_deepslate"
+    },
+    {
+      "item": "homakmod:cobbled_soul_deepslate"
+    },
+    {
+      "item": "homakmod:cobbled_soul_deepslate"
+    },
+    {
+      "item": "homakmod:cobbled_soul_deepslate"
+    },
+    {
+      "item": "homakmod:cobbled_soul_deepslate"
+    },
+    {
+      "item": "homakmod:cobbled_soul_deepslate"
+    }
+  ],
+  "result": {
+    "id": "homakmod:polished_soul_deepslate",
+    "count": 8
+  }
+}

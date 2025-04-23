@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "homakmod:unstable_soul_ingot"
+    },
+    {
+      "item": "homakmod:unstable_soul_ingot"
+    },
+    {
+      "item": "homakmod:unstable_soul_ingot"
+    },
+    {
+      "item": "homakmod:unstable_soul_ingot"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    }
+  ],
+  "result": {
+    "id": "homakmod:soul_ingot",
+    "count": 4
+  }
+}

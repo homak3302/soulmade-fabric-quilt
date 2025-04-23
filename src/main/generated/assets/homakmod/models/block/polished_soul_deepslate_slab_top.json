@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "homakmod:block/polished_soul_deepslate",
+    "side": "homakmod:block/polished_soul_deepslate",
+    "top": "homakmod:block/polished_soul_deepslate"
+  }
+}

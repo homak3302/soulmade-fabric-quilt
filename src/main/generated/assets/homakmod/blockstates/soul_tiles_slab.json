@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "homakmod:block/soul_tiles_slab"
+    },
+    "type=double": {
+      "model": "homakmod:block/soul_tiles"
+    },
+    "type=top": {
+      "model": "homakmod:block/soul_tiles_slab_top"
+    }
+  }
+}

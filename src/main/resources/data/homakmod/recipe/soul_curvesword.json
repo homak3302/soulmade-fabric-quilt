@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #P",
+    "Sn#",
+    "NS "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:soul_campfire"
+    },
+    "P": {
+      "item": "minecraft:polished_deepslate"
+    },
+    "S": {
+      "item": "minecraft:soul_sand"
+    },
+    "n": {
+      "item": "minecraft:soul_soil"
+    },
+    "N": {
+      "item": "minecraft:netherite_sword"
+    }
+  },
+  "result": {
+    "id": "homakmod:soul_curvesword",
+    "count": 1
+  }
+}

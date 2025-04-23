@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "homakmod:block/polished_soul_deepslate_pressure_plate"
+    },
+    "powered=true": {
+      "model": "homakmod:block/polished_soul_deepslate_pressure_plate_down"
+    }
+  }
+}

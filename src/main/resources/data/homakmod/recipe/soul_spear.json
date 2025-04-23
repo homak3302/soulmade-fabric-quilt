@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#nS",
+    " nn",
+    "N #"
+  ],
+  "key": {
+    "#": {
+      "item": "homakmod:unstable_soul_ingot"
+    },
+    "n": {
+      "item": "homakmod:soul_ingot"
+    },
+    "S": {
+      "item": "homakmod:soul_bottle"
+    },
+    "N": {
+      "item": "minecraft:netherite_sword"
+    }
+  },
+  "result": {
+    "id": "homakmod:soul_spear",
+    "count": 1
+  }
+}

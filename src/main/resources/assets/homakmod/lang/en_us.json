@@ -1,0 +1,71 @@
+{
+ "item.homakmod.soul_force_field": "Soul Force Field",
+ "item.homakmod.soul_hider": "Soul Hider",
+ "item.homakmod.soul_hideout": "§bSoul Hideout",
+ "item.homakmod.soul_curvesword": "§bSoul Curvesword",
+ "item.homakmod.soul_cleaver": "§bSoul Cleaver",
+ "item.homakmod.soul_greatsword": "§b§kr §r§bSoul Greatsword §kr",
+ "item.homakmod.soul_katana": "§bSoul Katana",
+ "item.homakmod.fractured_slayer": "§bFractured Slayer",
+ "item.homakmod.soul_spear": "§bSoul Spear",
+ "item.homakmod.soul_greataxe": "§bSoul Greataxe",
+ "item.homakmod.harbinger_glaive": "§bHarbinger Glaive",
+ "item.homakmod.soul_rocket_launcher": "Soul Rocket Launcher",
+
+ "tooltip.homakmod.soul_greataxe.souls": "§bSoul Essence: %s/20",
+ "tooltip.homakmod.soul_greataxe.souls2": "Charge 20 Soul Essence to activate §bSoul Burst",
+
+ "tooltip.homakmod.fractured_slayer.souls": "§bSouls Stored: %s/30",
+ "tooltip.homakmod.fractured_slayer.souls2": "Unleashes a §bSoul Beam§r on max soul count",
+ "tooltip.homakmod.fractured_slayer.shift_hold": "Hold §eSHIFT§r for more info",
+
+ "item.soul_warper.tooltip.no_pos_set": "No warp location set",
+ "item.soul_warper.tooltip.pos_set": "Warp location: ",
+ "item.soul_warper.tooltip.cooldown": "Has 60s cooldown",
+
+ "item.soul_stealer.tooltip.trapped": "Soul Trapped: ",
+
+ "item.homakmod.dice.roll.weakness": "§4Weakness",
+ "item.homakmod.dice.roll.strength": "§bStrength",
+ "item.homakmod.dice.roll.neutral": "No Effect",
+ "item.homakmod.dice_of_fate": "Dice Of Fate",
+ "item.homakmod.strength_recoiler": "Strength Recoiler",
+ "item.homakmod.soul_booster": "Soul Booster",
+ "item.homakmod.unstable_soul_ingot": "Unstable Soul Ingot",
+ "item.homakmod.soul_ingot": "Soul Ingot",
+ "item.homakmod.soul_warper": "Warping Tome",
+ "item.homakmod.soul_bottle": "Soul Bottle",
+
+
+ "block.homakmod.soul_dominance": "§bSoul Dominance §4[DOES NOT WORK]",
+ "block.homakmod.soul_tiles": "Soul Deepslate Tiles",
+ "block.homakmod.soul_bricks": "Soul Deepslate Bricks",
+ "block.homakmod.polished_soul_deepslate": "Polished Soul Deepslate",
+ "block.homakmod.cobbled_soul_deepslate": "Cobbled Soul Deepslate",
+ "block.homakmod.soul_block": "Soul Block",
+
+ "block.homakmod.cobbled_soul_deepslate_stairs": "Cobbled Soul Deepslate Stairs",
+ "block.homakmod.polished_soul_deepslate_stairs": "Polished Soul Deepslate Stairs",
+ "block.homakmod.soul_bricks_stairs": "Soul Deepslate Bricks Stairs",
+ "block.homakmod.soul_tiles_stairs": "Soul Deepslate Tiles Stairs",
+
+ "block.homakmod.polished_soul_deepslate_slab": "Polished Soul Deepslate Slab",
+ "block.homakmod.soul_bricks_slab": "Soul Deepslate Bricks Slab",
+ "block.homakmod.soul_tiles_slab": "Soul Deepslate Tiles Slab",
+ "block.homakmod.cobbled_soul_deepslate_slab": "Cobbled Soul Deepslate Slab",
+
+ "block.homakmod.cobbled_soul_deepslate_wall": "Cobbled Soul Deepslate Wall",
+ "block.homakmod.polished_soul_deepslate_wall": "Polished Soul Deepslate Wall",
+ "block.homakmod.soul_deepslate_bricks_wall": "Soul Deepslate Bricks Wall",
+ "block.homakmod.soul_deepslate_tiles_wall": "Soul Deepslate Tiles Wall",
+
+ "block.homakmod.cobbled_soul_deepslate_pressure_plate": "Cobbled Soul Deepslate Pressure Plate",
+ "block.homakmod.polished_soul_deepslate_pressure_plate": "Polished Soul Deepslate Pressure Plate",
+ "block.homakmod.soul_deepslate_bricks_pressure_plate": "Soul Deepslate Bricks Pressure Plate",
+ "block.homakmod.soul_deepslate_tiles_pressure_plate": "Soul Deepslate Tiles Pressure Plate",
+
+
+ "effect.homakmod.soul_weakness": "Soul Weakness",
+ "effect.homakmod.weighted": "Weighted",
+ "effect.homakmod.hideout": "Hideout"
+}

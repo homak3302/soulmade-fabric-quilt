@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "homakmod:polished_soul_deepslate"
+    },
+    {
+      "item": "homakmod:polished_soul_deepslate"
+    },
+    {
+      "item": "homakmod:polished_soul_deepslate"
+    },
+    {
+      "item": "homakmod:polished_soul_deepslate"
+    },
+    {
+      "item": "minecraft:soul_sand"
+    },
+    {
+      "item": "homakmod:polished_soul_deepslate"
+    },
+    {
+      "item": "homakmod:polished_soul_deepslate"
+    },
+    {
+      "item": "homakmod:polished_soul_deepslate"
+    },
+    {
+      "item": "homakmod:polished_soul_deepslate"
+    }
+  ],
+  "result": {
+    "id": "homakmod:soul_bricks",
+    "count": 8
+  }
+}

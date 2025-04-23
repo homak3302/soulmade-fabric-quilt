@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#B#",
+    "BSB",
+    "#B#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bone"
+    },
+    "B": {
+      "item": "minecraft:bone_block"
+    },
+    "S": {
+      "item": "homakmod:soul_force_field"
+    }
+  },
+  "result": {
+    "id": "homakmod:dice_of_fate",
+    "count": 1
+  }
+}

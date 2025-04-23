@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#F#",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:polished_deepslate"
+    },
+    "F": {
+      "item": "minecraft:firework_rocket"
+    },
+    "S": {
+      "item": "homakmod:soul_force_field"
+    }
+  },
+  "result": {
+    "id": "homakmod:soul_booster",
+    "count": 1
+  }
+}

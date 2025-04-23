@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #S",
+    "#nP",
+    "NP "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:soul_sand"
+    },
+    "S": {
+      "item": "homakmod:soul_force_field"
+    },
+    "n": {
+      "item": "homakmod:soul_bottle"
+    },
+    "P": {
+      "item": "minecraft:polished_deepslate"
+    },
+    "N": {
+      "item": "minecraft:netherite_axe"
+    }
+  },
+  "result": {
+    "id": "homakmod:soul_cleaver",
+    "count": 1
+  }
+}

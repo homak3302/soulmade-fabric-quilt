@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "homakmod:item/soul_rocket_launcher"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "nWn",
+    "PBP",
+    "PEP"
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "W": {
+      "item": "homakmod:soul_bottle"
+    },
+    "P": {
+      "item": "homakmod:polished_soul_deepslate"
+    },
+    "B": {
+      "item": "minecraft:book"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "id": "homakmod:soul_warper",
+    "count": 1
+  }
+}

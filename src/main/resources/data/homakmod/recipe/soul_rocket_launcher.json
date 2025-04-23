@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#PP",
+    "#FP",
+    " P "
+  ],
+  "key": {
+    "#": {
+      "item": "homakmod:soul_bottle"
+    },
+    "P": {
+      "item": "homakmod:polished_soul_deepslate"
+    },
+    "F": {
+      "item": "minecraft:firework_rocket"
+    }
+  },
+  "result": {
+    "id": "homakmod:soul_rocket_launcher",
+    "count": 1
+  }
+}

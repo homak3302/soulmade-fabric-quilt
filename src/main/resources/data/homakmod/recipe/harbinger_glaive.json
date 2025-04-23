@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #n",
+    "#S#",
+    "N# "
+  ],
+  "key": {
+    "#": {
+      "item": "homakmod:polished_soul_deepslate"
+    },
+    "n": {
+      "item": "homakmod:soul_ingot"
+    },
+    "S": {
+      "item": "minecraft:soul_sand"
+    },
+    "N": {
+      "item": "minecraft:netherite_sword"
+    }
+  },
+  "result": {
+    "id": "homakmod:harbinger_glaive",
+    "count": 1
+  }
+}
